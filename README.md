@@ -27,7 +27,6 @@ This project uses the data set [**Project_data.csv**](https://github.com/floydlu
 
 1. This Project was developed with R​ kernel in Jupyter Notebook. 
 2. You can access the whole project source code and data via: https://github.com/floydluo/mht
-3. You can access the interactive project report via: 
 
 ## Group Members and Credits
 
